@@ -25,3 +25,4 @@ Collection of MacOS menubar applications
 <a href="https://github.com/menubar-apps/PullBar"><img width="64" alt="pullbar" src="https://github.com/user-attachments/assets/a101b393-886b-494d-8ee5-d6ca91c10c9c" /></a>
   <a href="https://github.com/menubar-apps/jirabar"><img width="64" alt="jirabar" src="https://github.com/user-attachments/assets/ac25bda6-78c8-4edf-ba2a-db5c3b52f017" /></a>
   <a href="https://github.com/menubar-apps/ToDoBar"><img width="64" alt="todobar" src="https://github.com/user-attachments/assets/b19fa845-45f1-450f-9bf9-db4cd66ab925" /></a>
+<a href="https://github.com/menubar-apps/StreakBar"><img width="64" alt="streakbar" src="https://github.com/user-attachments/assets/746dfe78-1a75-40a3-a42b-b1dfe53de34b" /></a>
